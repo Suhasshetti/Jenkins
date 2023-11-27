@@ -5,5 +5,6 @@ class hello{
         }
 
         System.out.println("Hello suhas");
+        System.out.println("Welcome to Gokarna");
     }
 }
